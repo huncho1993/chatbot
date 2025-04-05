@@ -4,7 +4,7 @@ from typing import List, Dict, Any
 
 # IMPORTANT: Replace this with your actual OpenAI API key
 # In production, use environment variables: os.environ.get("OPENAI_API_KEY")
-openai.api_key = "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"
+openai.api_key = "" #my secret api key
 
 class TravelChatbot:
     def __init__(self):
